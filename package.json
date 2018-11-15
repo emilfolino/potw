@@ -1,0 +1,23 @@
+{
+  "name": "potw",
+  "version": "1.0.0",
+  "description": "Database and app to get short summaries of papers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilfolino/potw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilfolino/potw/issues"
+  },
+  "homepage": "https://github.com/emilfolino/potw#readme",
+  "dependencies": {
+    "mongodb": "^3.1.9"
+  }
+}
